@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" : "https://github.com/Chorkhieng/React-Project-IBM-Course",
+  "homepage": "https://Chorkhieng.github.io/React-Project-IBM-Course",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
